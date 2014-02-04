@@ -2,7 +2,7 @@
 
 The target of this project is to develop an integrated web application for small team or group to easily manage their members’ status (such as on-site, travel, vacation)and assets’ status (such as on/off, under repair) and communicate with interesting member or assets’ person liable instantly.
 
-![login screenshot](./login.png)
+![login screenshot](./Login.png =500x400)
 
 This application is developed on top of Java EE framework.
 
